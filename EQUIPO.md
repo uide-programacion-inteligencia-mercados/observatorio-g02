@@ -4,7 +4,7 @@ Cada integrante completa **su propia fila** con un commit propio: cambia los ___
 
 | Nombre | Usuario | Perfil | Me comprometo a |
 |---|---|---|---|
-| Diana Andrade | @___ | https://github.com/___ | ___ |
+| Diana Andrade | @Diana-and | https://github.com/Diana-and | Trabajar en equipo y cumplir con cada una de las tareas |
 | Anthony Landeta (líder) | @anlandetaga28 | https://github.com/anlandetaga | a aportar |
 | Paula Paredes | @___ | https://github.com/___ | ___ |
 | Saúl Robalino | @___ | https://github.com/___ | ___ |
