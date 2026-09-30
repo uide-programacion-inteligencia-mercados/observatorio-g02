@@ -10,6 +10,6 @@
 Se completa en la tarea «Dos fuentes entrando».
 
 ## Declaración de uso de IA
-Se utilizó ChatGPT como herramienta de apoyo para comprender las instrucciones, formular la pregunta de investigación, resolver dudas y revisar la redacción. El equipo verificó que el contenido sea coherente con las fuentes utilizadas y revisará de forma manual los datos, cálculos y código antes de incorporarlos al proyecto.
+Se utilizó ChatGPT como herramienta de apoyo para comprender las instrucciones.
 
 ---
