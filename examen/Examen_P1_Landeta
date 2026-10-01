@@ -95,7 +95,8 @@
       "cell_type": "code",
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/"
+          "base_uri": "https://localhost:8080/",
+          "height": 0
         },
         "id": "EX-CmDYMRtRS",
         "outputId": "dfc6060c-e5c5-4da3-9965-f4cb6f5df1ff"
@@ -455,7 +456,8 @@
       "cell_type": "code",
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/"
+          "base_uri": "https://localhost:8080/",
+          "height": 0
         },
         "id": "QAtYiR7MRtRU",
         "outputId": "b3b9bba3-fc9b-4403-f13e-35989bcef8c6"
@@ -518,7 +520,8 @@
       "cell_type": "code",
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/"
+          "base_uri": "https://localhost:8080/",
+          "height": 0
         },
         "id": "b4jtnIG1RtRV",
         "outputId": "ebf1f2b4-b604-4f31-943a-8500ce1e3732"
@@ -574,7 +577,8 @@
       "cell_type": "code",
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/"
+          "base_uri": "https://localhost:8080/",
+          "height": 0
         },
         "id": "LCcBezN9RtRV",
         "outputId": "b95efa1b-1c5d-4381-9fd0-bc0b4a6c808d"
@@ -700,7 +704,8 @@
       "cell_type": "code",
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/"
+          "base_uri": "https://localhost:8080/",
+          "height": 0
         },
         "id": "F0K8ND1wRtRW",
         "outputId": "cba097d0-5903-4493-f106-14936da5bd44"
@@ -767,9 +772,9 @@
         "#@title PASO 6 · Tu respuesta al cliente { display-mode: \"form\" }\n",
         "#@markdown Escribe en cada recuadro y pulsa el botón redondo\n",
         "EL_PROBLEMA = \" La cadena mira cuánto gastan los hogares por persona en cada país (el consumo, sin inflación). Si creció 5 % o más desde 2019, las familias están comprando más y conviene una campaña de imagen; si no, conviene una campaña de promociones y crédito.\" #@param {type:\"string\"}\n",
-        "MI_RESPUESTA = \"Haría mas campaña de imagen en Colombia porque su consumo ya es alto y campaña de promociones en Ecuador para crear incentivo y que aumenten su consumo\" #@param {type:\"string\"}\n",
-        "MI_RECOMENDACION = \"Recomiendo hacer un estudio mas específico que permita comparar una o mas variables que nos de mas información y poder diseñar una mejor estrategia\" #@param {type:\"string\"}\n",
-        "LO_QUE_NO_PUEDO_AFIRMAR = \"No puedo afirmar porque en Colombia se ven mayores variaciones porcentuales que en Ecuador, únicamente datos cuantitativos.\" #@param {type:\"string\"}\n",
+        "MI_RESPUESTA = \"Haría mas campaña de imagen en Colombia porque su consumo ya es alto y campaña de promociones en Ecuador para crear incentivo y que aumenten su consumo, Podemos observar que Colombia presenta un valor de 5355.74 mientras que Ecuador presenta un valor de 3,949.63 \" #@param {type:\"string\"}\n",
+        "MI_RECOMENDACION = \"Recomiendo hacer un estudio mas específico que permita comparar una o mas variables que nos de mas información y poder diseñar una mejor estrategia. Entonces recomendaría que se contemplen mas variables que permitan conocer porque existen esos cambios muy diferentes en ambos países, con eso se podría contemplar mejor el panorama y plantear estrategias acorde a cada País.\" #@param {type:\"string\"}\n",
+        "LO_QUE_NO_PUEDO_AFIRMAR = \"No puedo afirmar porque en Colombia se ven ma ,yores variaciones porcentuales que en Ecuador, únicamente datos cuantitativos. La variabilidad porcentual en Colombia es del 19.4% y comparando esto con la variación porcentual de Ecuador es de 4,5%, entonces viendo esa data no podemos afirmar la razón o el porque un país tiene una variación mucho mayor que el otro, y asi no podemos contemplar todo el panorama\" #@param {type:\"string\"}\n",
         "USO_DE_IA = \"No usé IA\" #@param {type:\"string\"}\n",
         "paso6(EL_PROBLEMA, MI_RESPUESTA, MI_RECOMENDACION, LO_QUE_NO_PUEDO_AFIRMAR, USO_DE_IA)"
       ]
