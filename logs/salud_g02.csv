@@ -2,3 +2,4 @@ fecha_utc,corrida,estado,motivo,filas,segundos
 2026-10-22T03:32:09+00:00,39717323762,rojo,la fuente falló: FS.AST.PRVT.GD.ZS: no contestó después de 4 intentos (SIMULACRO: el Banco Mundial no contesta (falla provocada a propósito)),0,14.0
 2026-10-22T03:33:40+00:00,39717488323,verde,todo bien,22,0.5
 2026-10-22T14:58:20+00:00,39800386012,verde,todo bien,22,0.4
+2026-10-22T21:54:51+00:00,39860935369,verde,todo bien,22,0.2
