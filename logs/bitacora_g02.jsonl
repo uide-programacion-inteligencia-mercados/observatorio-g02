@@ -4,3 +4,7 @@
 {"momento_utc": "2026-10-22T03:32:01+00:00", "corrida": "39717323762", "equipo": "g02", "nivel": "WARNING", "evento": "FS.AST.PRVT.GD.ZS: intento 3 falló; espero 8 s y reintento", "error": "SIMULACRO: el Banco Mundial no contesta (falla provocada a propósito)"}
 {"momento_utc": "2026-10-22T03:32:09+00:00", "corrida": "39717323762", "equipo": "g02", "nivel": "ERROR", "evento": "la fuente falló: FS.AST.PRVT.GD.ZS: no contestó después de 4 intentos (SIMULACRO: el Banco Mundial no contesta (falla provocada a propósito))"}
 {"momento_utc": "2026-10-22T03:32:09+00:00", "corrida": "39717323762", "equipo": "g02", "nivel": "INFO", "evento": "plan B: se conservan intactos los datos de la última corrida buena"}
+{"momento_utc": "2026-10-22T03:33:39+00:00", "corrida": "39717488323", "equipo": "g02", "nivel": "INFO", "evento": "inicio de la corrida", "simulacro": false}
+{"momento_utc": "2026-10-22T03:33:40+00:00", "corrida": "39717488323", "equipo": "g02", "nivel": "INFO", "evento": "FS.AST.PRVT.GD.ZS: recibido"}
+{"momento_utc": "2026-10-22T03:33:40+00:00", "corrida": "39717488323", "equipo": "g02", "nivel": "INFO", "evento": "FB.AST.NPER.ZS: recibido"}
+{"momento_utc": "2026-10-22T03:33:40+00:00", "corrida": "39717488323", "equipo": "g02", "nivel": "INFO", "evento": "datos aprobados y guardados", "filas": 22, "archivo": "data/indicadores_g02.csv"}
