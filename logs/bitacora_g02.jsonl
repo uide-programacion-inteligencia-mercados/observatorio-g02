@@ -48,3 +48,7 @@
 {"momento_utc": "2026-10-27T15:48:02+00:00", "corrida": "40534523036", "equipo": "g02", "nivel": "INFO", "evento": "FS.AST.PRVT.GD.ZS: recibido"}
 {"momento_utc": "2026-10-27T15:48:02+00:00", "corrida": "40534523036", "equipo": "g02", "nivel": "INFO", "evento": "FB.AST.NPER.ZS: recibido"}
 {"momento_utc": "2026-10-27T15:48:02+00:00", "corrida": "40534523036", "equipo": "g02", "nivel": "INFO", "evento": "datos aprobados y guardados", "filas": 22, "archivo": "data/indicadores_g02.csv"}
+{"momento_utc": "2026-10-28T16:30:39+00:00", "corrida": "40726617103", "equipo": "g02", "nivel": "INFO", "evento": "inicio de la corrida", "simulacro": false}
+{"momento_utc": "2026-10-28T16:30:39+00:00", "corrida": "40726617103", "equipo": "g02", "nivel": "INFO", "evento": "FS.AST.PRVT.GD.ZS: recibido"}
+{"momento_utc": "2026-10-28T16:30:40+00:00", "corrida": "40726617103", "equipo": "g02", "nivel": "INFO", "evento": "FB.AST.NPER.ZS: recibido"}
+{"momento_utc": "2026-10-28T16:30:40+00:00", "corrida": "40726617103", "equipo": "g02", "nivel": "INFO", "evento": "datos aprobados y guardados", "filas": 22, "archivo": "data/indicadores_g02.csv"}
