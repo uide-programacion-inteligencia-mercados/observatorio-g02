@@ -14,3 +14,4 @@ fecha_utc,corrida,estado,motivo,filas,segundos
 2026-10-28T16:30:40+00:00,40726617103,verde,todo bien,22,0.6
 2026-10-28T23:10:06+00:00,40785353546,verde,todo bien,22,0.9
 2026-10-29T03:02:17+00:00,40809792901,verde,todo bien,22,2.6
+2026-10-29T03:09:11+00:00,40809906305,rojo,la fuente falló: FS.AST.PRVT.GD.ZS: no contestó después de 4 intentos (SIMULACRO: el Banco Mundial no contesta (falla provocada a propósito)),0,14.0
