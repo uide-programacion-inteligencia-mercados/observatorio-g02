@@ -56,3 +56,8 @@
 {"momento_utc": "2026-10-28T23:10:06+00:00", "corrida": "40785353546", "equipo": "g02", "nivel": "INFO", "evento": "FS.AST.PRVT.GD.ZS: recibido"}
 {"momento_utc": "2026-10-28T23:10:06+00:00", "corrida": "40785353546", "equipo": "g02", "nivel": "INFO", "evento": "FB.AST.NPER.ZS: recibido"}
 {"momento_utc": "2026-10-28T23:10:06+00:00", "corrida": "40785353546", "equipo": "g02", "nivel": "INFO", "evento": "datos aprobados y guardados", "filas": 22, "archivo": "data/indicadores_g02.csv"}
+{"momento_utc": "2026-10-29T03:02:14+00:00", "corrida": "40809792901", "equipo": "g02", "nivel": "INFO", "evento": "inicio de la corrida", "simulacro": false}
+{"momento_utc": "2026-10-29T03:02:15+00:00", "corrida": "40809792901", "equipo": "g02", "nivel": "INFO", "evento": "FS.AST.PRVT.GD.ZS: recibido"}
+{"momento_utc": "2026-10-29T03:02:15+00:00", "corrida": "40809792901", "equipo": "g02", "nivel": "INFO", "evento": "FB.AST.NPER.ZS: recibido"}
+{"momento_utc": "2026-10-29T03:02:15+00:00", "corrida": "40809792901", "equipo": "g02", "nivel": "INFO", "evento": "datos aprobados y guardados", "filas": 22, "archivo": "data/indicadores_g02.csv"}
+{"momento_utc": "2026-10-29T03:02:17+00:00", "corrida": "40809792901", "equipo": "g02", "nivel": "INFO", "evento": "informe PDF generado", "archivo": "reports/informe_g02.pdf", "paginas": 2, "kb": 51}
