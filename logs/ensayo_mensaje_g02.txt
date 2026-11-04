@@ -1,0 +1,7 @@
+ASUNTO: [Observatorio G02] Informe del 2026-11-04 · robot AMARILLO
+
+El endeudamiento privado se expande frente al PIB mientras la cartera vencida se mantiene estable
+
+Estado del robot: AMARILLO
+Informe completo (PDF): https://github.com/uide-programacion-inteligencia-mercados/observatorio-g02/blob/main/reports/informe_g02.pdf
+Fuente y fecha de los datos: dentro del informe, en la sección «Calidad de los datos».
