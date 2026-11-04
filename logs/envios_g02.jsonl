@@ -1,3 +1,4 @@
 {"momento": "2026-11-04T17:43:36Z", "fecha": "2026-11-04", "equipo": "g02", "canal": "ensayo", "estado": "ensayo", "modo": "ensayo", "intentos": 0, "detalle": "canales listos: slack"}
 {"momento": "2026-11-04T17:49:46Z", "fecha": "2026-11-04", "equipo": "g02", "canal": "slack", "estado": "enviado", "modo": "real", "intentos": 1, "detalle": "ok"}
 {"momento": "2026-11-04T17:53:45Z", "fecha": "2026-11-04", "equipo": "g02", "canal": "slack", "estado": "fallido", "modo": "real", "intentos": 3, "detalle": "se agotaron los 3 intentos (simulacro: el servicio no está disponible)"}
+{"momento": "2026-11-04T17:55:54Z", "fecha": "2026-11-04", "equipo": "g02", "canal": "slack", "estado": "omitido", "modo": "real", "intentos": 0, "detalle": "ya enviado hoy"}
