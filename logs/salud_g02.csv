@@ -24,3 +24,4 @@ fecha_utc,corrida,estado,motivo,filas,segundos
 2026-11-08T16:34:35+00:00,42500519186,amarillo,"funcionó, pero tuvo que reintentar",22,33.9
 2026-11-09T20:32:32+00:00,42693874708,verde,todo bien,22,2.6
 2026-11-10T17:36:07+00:00,42866545030,verde,todo bien,22,2.8
+2026-11-11T17:47:46+00:00,43071438084,amarillo,"funcionó, pero tuvo que reintentar",22,38.0
