@@ -27,3 +27,4 @@ fecha_utc,corrida,estado,motivo,filas,segundos
 2026-11-11T17:47:46+00:00,43071438084,amarillo,"funcionó, pero tuvo que reintentar",22,38.0
 2026-11-12T18:03:08+00:00,43275295829,rojo,"la fuente falló: FB.AST.NPER.ZS: no contestó después de 4 intentos (HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30))",0,134.6
 2026-11-13T17:36:53+00:00,43474301614,amarillo,"funcionó, pero tuvo que reintentar",22,56.6
+2026-11-14T16:30:40+00:00,43615692758,rojo,"la fuente falló: FB.AST.NPER.ZS: no contestó después de 4 intentos (HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30))",0,158.2
