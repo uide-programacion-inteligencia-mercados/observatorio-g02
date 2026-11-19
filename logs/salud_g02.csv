@@ -32,3 +32,4 @@ fecha_utc,corrida,estado,motivo,filas,segundos
 2026-11-16T20:11:20+00:00,43946578479,rojo,"la fuente falló: FS.AST.PRVT.GD.ZS: no contestó después de 4 intentos (HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30))",0,134.2
 2026-11-17T19:01:31+00:00,44153780136,amarillo,"funcionó, pero tuvo que reintentar",22,70.4
 2026-11-18T18:44:40+00:00,44372894358,verde,todo bien,22,14.0
+2026-11-19T18:56:30+00:00,44592967904,verde,todo bien,22,4.4
