@@ -173,3 +173,10 @@
 {"momento_utc": "2026-11-20T18:26:29+00:00", "corrida": "44792701072", "equipo": "g02", "nivel": "INFO", "evento": "FB.AST.NPER.ZS: recibido"}
 {"momento_utc": "2026-11-20T18:26:29+00:00", "corrida": "44792701072", "equipo": "g02", "nivel": "INFO", "evento": "datos aprobados y guardados", "filas": 22, "archivo": "data/indicadores_g02.csv"}
 {"momento_utc": "2026-11-20T18:26:33+00:00", "corrida": "44792701072", "equipo": "g02", "nivel": "INFO", "evento": "informe PDF generado", "archivo": "reports/informe_g02.pdf", "paginas": 2, "kb": 51}
+{"momento_utc": "2026-11-21T17:14:12+00:00", "corrida": "44928889685", "equipo": "g02", "nivel": "INFO", "evento": "inicio de la corrida", "simulacro": false}
+{"momento_utc": "2026-11-21T17:14:42+00:00", "corrida": "44928889685", "equipo": "g02", "nivel": "WARNING", "evento": "FS.AST.PRVT.GD.ZS: intento 1 falló; espero 2 s y reintento", "error": "HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)"}
+{"momento_utc": "2026-11-21T17:15:15+00:00", "corrida": "44928889685", "equipo": "g02", "nivel": "WARNING", "evento": "FS.AST.PRVT.GD.ZS: intento 2 falló; espero 4 s y reintento", "error": "HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)"}
+{"momento_utc": "2026-11-21T17:15:19+00:00", "corrida": "44928889685", "equipo": "g02", "nivel": "INFO", "evento": "FS.AST.PRVT.GD.ZS: recibido"}
+{"momento_utc": "2026-11-21T17:15:48+00:00", "corrida": "44928889685", "equipo": "g02", "nivel": "INFO", "evento": "FB.AST.NPER.ZS: recibido"}
+{"momento_utc": "2026-11-21T17:15:48+00:00", "corrida": "44928889685", "equipo": "g02", "nivel": "INFO", "evento": "datos aprobados y guardados", "filas": 22, "archivo": "data/indicadores_g02.csv"}
+{"momento_utc": "2026-11-21T17:15:51+00:00", "corrida": "44928889685", "equipo": "g02", "nivel": "INFO", "evento": "informe PDF generado", "archivo": "reports/informe_g02.pdf", "paginas": 2, "kb": 51}
