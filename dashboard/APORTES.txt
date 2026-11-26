@@ -1,2 +1,3 @@
 # Aportes del equipo al tablero (P3-PE-A1)
 David Uriguen · subí la carpeta dashboard, publiqué el tablero en Streamlit y escribí los textos (título, fuente, pregunta y lectura)
+probé el tablero en ventana privada, tomé las 3 capturas y mandé 3 observaciones al grupo
