@@ -1,8 +1,8 @@
-# Escribe tu texto al final de cada línea, justo después de los dos puntos (:).
-# Haz clic a la derecha de TITULO: (en esa misma línea) y escribe. No borres nada.
+# Escribe tu texto al final de cada línea, justo después de los dos puntos (:). 
+# Haz clic a la derecha de TITULO: (en esa misma línea) y escribe. No borres nada. 
 # Cada texto va en una sola línea. Las líneas que empiezan con # no se leen.
-TITULO:
+TITULO: Observatorio G02 · El crédito del país
 SUBTITULO: El robot busca, limpia y analiza los datos. Esta página los muestra con filtros.
-FUENTE:
-PREGUNTA:
-LECTURA:
+FUENTE: Fuente: Banco Mundial (API pública), crédito al sector privado y morosidad bancaria de Ecuador 2015-2025; nuestro robot los revisa a diario, última corrida exitosa el 25 de noviembre de 2026.
+PREGUNTA: ¿Puede el banco seguir prestando más sin que suba el riesgo de que la gente no pague?
+LECTURA: El crédito al sector privado subió de 29.94 % del PIB en 2015 a 58.87 % en 2025, su máximo. La morosidad tiene una mediana de 3.25 %, pero llegó a 4.82 % en 2024 y bajó a 4.45 % en 2025. Sugerimos seguir prestando, con criterios de aprobación más estrictos y revisando la morosidad cada trimestre.
